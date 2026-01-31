@@ -1,4 +1,4 @@
-FROM azul/zulu-openjdk:8
+FROM azul/zulu-openjdk:8u482-8.92-jre-headless
 
 ENV DEBIAN_FRONTEND noninteractive
 ENV TERM dumb
